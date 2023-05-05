@@ -26,7 +26,6 @@ const Cards = () => {
         <div className="absolute z-0 w-[40%] h-[35%] top-0 blue__gradient"/>
         <h1
           className="flex-1 relative z-[5] font-poppins font-semibold sm:text-6xl ss:text-5xl text-[52px] text-white text-center py-8 pt-20"
-      
         >
           Watch<span className="text-gradient font-bold "> Unlimited </span>
           Shows
